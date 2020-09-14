@@ -1,0 +1,19 @@
+{
+  "name": "mongodb-mongoose-guide",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tweneboah/mongodb-mongoose-guide.git"
+  },
+  "author": "Emmanuel Tweneboah",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tweneboah/mongodb-mongoose-guide/issues"
+  },
+  "homepage": "https://github.com/tweneboah/mongodb-mongoose-guide#readme"
+}
